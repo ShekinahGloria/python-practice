@@ -1,3 +1,3 @@
 # python-practice
-Name: Otieno Shekinah Gloria
-Admission number: 182989
+**Name**: Otieno Shekinah Gloria
+**Admission number**: 182989
