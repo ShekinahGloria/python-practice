@@ -5,4 +5,4 @@ def factorial_loop(n):
     return result
 
 # Example
-print(factorial_loop(6))  # Outputs 720 because 6git config --global user.name "Your Name"! 
+print(factorial_loop(6))  # Outputs 720 
